@@ -13,7 +13,7 @@
       [9] pip2 install mechanize
       [10] pip install requests
       [11] pip2 install requests
-      [12] git clone https://github.com/mrjeeck/JMBF
+      [12] git clone https://github.com/mrjeeck/JMBFF
       [13] pip2 install ipaddress
       [14] cd JMBFF
       [15] python2 JMBFF.py
