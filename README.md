@@ -1,5 +1,5 @@
 # Fitur
-https://github.com/mrjeeck/JMBFF/issues/1#issue-1072739597
+![Screenshot_20211207-053117_Termux](https://user-images.githubusercontent.com/88564225/144940285-f7f8990a-e308-46c2-b803-4ad2109d5941.jpg)
 # INSTALL
 
       [1] pkg update && pkg upgrade
