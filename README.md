@@ -27,7 +27,8 @@
        ( Yumasaa Datebayoo
        ( GH YAYAN : https://github.com/Yayan-XD
        ( GH RISKY : https://github.com/Dumai-991
-       ( GH YUMASAA :
+       ( GH YUMASAA : https://github.com/YumasaaTzy
+       ( JANGAN LUPA DI FOLLOW PARA SUHUU KU ╰_╯
        
 # Okh
        ( Sori jarang Update Karena Lagi Gak Mod
