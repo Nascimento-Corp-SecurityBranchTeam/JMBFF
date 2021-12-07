@@ -15,8 +15,9 @@
       [11] pip2 install requests
       [12] git clone https://github.com/mrjeeck/JMBFF
       [13] pip2 install ipaddress
-      [14] cd JMBFF
-      [15] python2 JMBFF.py
+      [14] git pull
+      [15] cd JMBFF
+      [16] python2 JMBFF.py
       
 # THANKS  TO
        ( YAYAN XD
