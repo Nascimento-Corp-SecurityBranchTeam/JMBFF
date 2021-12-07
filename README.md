@@ -21,9 +21,13 @@
       
 # THANKS  TO
        ( YAYAN XD
+       ( RISKY / DUMAI-991
        ( XNXCODE
        ( XXCODE
        ( Yumasaa Datebayoo
+       ( GH YAYAN : https://github.com/Yayan-XD
+       ( GH RISKY : https://github.com/Dumai-991
+       ( GH YUMASAA :
        
 # Okh
        ( Sori jarang Update Karena Lagi Gak Mod
