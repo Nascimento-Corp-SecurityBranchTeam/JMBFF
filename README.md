@@ -29,7 +29,28 @@
        ( GH RISKY : https://github.com/Dumai-991
        ( GH YUMASAA : https://github.com/YumasaaTzy
        ( JANGAN LUPA DI FOLLOW PARA SUHUU KU ╰_╯
+      
+      
+# PANDUAN
+        ( SIAP KAN ALAT DAN BAHAN
+        ( BAHAN........? 
+        ( TOKEN, KUOTA, AKUN TUMBALL, ID TARGET, USERAGENT
+        ( ACCOUNT GITHUB LU BUAT FOLLOW GITHUB AINK
+        ( MASUK KE TOOLS MENGGUNAKAN TOKEN
+        ( UNTUK CARA AMBIL TOKEN ADA DI MENU PILIHAN
+        ( PILIH OPSI GANTI USER AGENT
+        ( GANTI USER AGENT YANG COCOK DI HP ANDA
+        ( PILIH PILIHAN YANG INGIN DIGUNAKAN UNTUK PROSES CRACK
+        ( SIAP KAN ID TARGET, POSTINGAN, DLL
+        ( UNTUK MENU CRACK MASALL MAXS 5+
+        ( PILIH MENU CRACK B-API, MBASIC, MOBILE FB
+        ( UNTUK PASS : ( nama), (123,1234,12345,)
+                       ( sayang, akusayangkamu, indonesia, kontol DLL
+        ( MAKASIH MUNGKIN ITU DOANK YANG SAYA BISA SAMPAIKAN KE LU PADA
+        ( DAN UCAPAN SAYA : SELAMAT MENCOBA ENJOYYY THIS TOOLS
        
+        
+      
 # Okh
        ( Sori jarang Update Karena Lagi Gak Mod
        ( Jangan lupa Kasih Binstang + FOLLOW
