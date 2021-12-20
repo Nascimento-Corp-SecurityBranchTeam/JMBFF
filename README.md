@@ -13,19 +13,20 @@
       [9] pip2 install mechanize
       [10] pip install requests
       [11] pip2 install requests
-      [12] git clone https://github.com/mrjeeck/JMBFF
-      [13] pip2 install ipaddress
-      [14] git pull
+      [12] rm -fr JMBFF
+      [13] git clone https://github.com/mrjeeck/JMBFF
+      [14] pip2 install ipaddress
       [15] cd JMBFF
+      [15] git pull
       [16] python2 JMBFF.py
       
 # THANKS  TO
-       ( YAYAN XD
+     
        ( RISKY / DUMAI-991
        ( XNXCODE
        ( XXCODE
        ( Yumasaa Datebayoo
-       ( GH YAYAN : https://github.com/Yayan-XD
+  
        ( GH RISKY : https://github.com/Dumai-991
        ( GH YUMASAA : https://github.com/YumasaaTzy
        ( JANGAN LUPA DI FOLLOW PARA SUHUU KU ╰_╯
